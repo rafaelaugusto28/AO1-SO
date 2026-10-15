@@ -4,7 +4,7 @@
 
 **Disciplina:** INF0336 – Sistemas Operacionais
 
-## 📌 Sobre o Projeto
+## 📌 Sobre 
 Este projeto consiste numa simulação do sistema de pagamentos PIX escrita em C, em que os envios de dinheiro são atendidos por uma *thread pool* que acede a uma base de contas partilhada. O objetivo principal é implementar de forma prática os conceitos de concorrência, sincronização, gestão de filas e tratamento de sinais interprocessos abordados na disciplina.
 
 ## 🚀 Funcionalidades e Questões Implementadas
